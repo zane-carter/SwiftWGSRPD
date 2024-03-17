@@ -1,0 +1,6644 @@
+[
+    {
+        "center": {
+            "latitude": 55.16579429980075,
+            "longitude": -114.51050554500719
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "71",
+            "name": "Western Canada"
+        },
+        "tdwg3": {
+            "code": "ABT",
+            "name": "Alberta"
+        }
+    },
+    {
+        "center": {
+            "latitude": 33.837580440504986,
+            "longitude": 66.01997575359293
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "AFG",
+            "name": "Afghanistan"
+        }
+    },
+    {
+        "center": {
+            "latitude": -32.59846803009887,
+            "longitude": -61.27599549405456
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "AGE",
+            "name": "Argentina Northeast"
+        }
+    },
+    {
+        "center": {
+            "latitude": -44.10161622742335,
+            "longitude": -68.88909231662097
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "AGS",
+            "name": "Argentina South"
+        }
+    },
+    {
+        "center": {
+            "latitude": -29.139140301270842,
+            "longitude": -66.35611339774412
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "AGW",
+            "name": "Argentina Northwest"
+        }
+    },
+    {
+        "center": {
+            "latitude": 32.78342994810545,
+            "longitude": -86.82702364077171
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "ALA",
+            "name": "Alabama"
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.13415688537399,
+            "longitude": 20.060508061482256
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "ALB",
+            "name": "Albania"
+        }
+    },
+    {
+        "center": {
+            "latitude": -9.418165913524355,
+            "longitude": 46.318173273909395
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "ALD",
+            "name": "Aldabra"
+        }
+    },
+    {
+        "center": {
+            "latitude": 28.164368790589172,
+            "longitude": 2.6225855275879737
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "20",
+            "name": "Northern Africa"
+        },
+        "tdwg3": {
+            "code": "ALG",
+            "name": "Algeria"
+        }
+    },
+    {
+        "center": {
+            "latitude": 51.95277580920597,
+            "longitude": 84.12189931751186
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "ALT",
+            "name": "Altay"
+        }
+    },
+    {
+        "center": {
+            "latitude": 53.69422216287303,
+            "longitude": -166.80165398796441
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "70",
+            "name": "Subarctic America"
+        },
+        "tdwg3": {
+            "code": "ALU",
+            "name": "Aleutian Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 53.396705522281685,
+            "longitude": 127.7163030849041
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "31",
+            "name": "Russian Far East"
+        },
+        "tdwg3": {
+            "code": "AMU",
+            "name": "Amur"
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.784456174739892,
+            "longitude": 92.88214084883495
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "AND",
+            "name": "Andaman Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -12.336708435304123,
+            "longitude": 17.56983422916051
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "26",
+            "name": "South Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "ANG",
+            "name": "Angola"
+        }
+    },
+    {
+        "center": {
+            "latitude": -80.50378474604095,
+            "longitude": 22.223094973742917
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "91",
+            "name": "Antarctic Continent"
+        },
+        "tdwg3": {
+            "code": "ANT",
+            "name": "Antarctica"
+        }
+    },
+    {
+        "center": {
+            "latitude": 34.29828325340796,
+            "longitude": -111.6653875371597
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "76",
+            "name": "Southwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "ARI",
+            "name": "Arizona"
+        }
+    },
+    {
+        "center": {
+            "latitude": 34.90215529732226,
+            "longitude": -92.44547528452104
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "ARK",
+            "name": "Arkansas"
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.524601292395184,
+            "longitude": -69.98473894424825
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "ARU",
+            "name": "Aruba"
+        }
+    },
+    {
+        "center": {
+            "latitude": -7.939066604672643,
+            "longitude": -14.352923071602337
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "28",
+            "name": "Middle Atlantic Ocean"
+        },
+        "tdwg3": {
+            "code": "ASC",
+            "name": "Ascension"
+        }
+    },
+    {
+        "center": {
+            "latitude": 64.73686838953573,
+            "longitude": -153.16553777910482
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "70",
+            "name": "Subarctic America"
+        },
+        "tdwg3": {
+            "code": "ASK",
+            "name": "Alaska"
+        }
+    },
+    {
+        "center": {
+            "latitude": -37.859287861041025,
+            "longitude": 77.52687449302256
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "ASP",
+            "name": "Amsterdam-St.Paul Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 25.494833226955485,
+            "longitude": 92.84104021415668
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "ASS",
+            "name": "Assam"
+        }
+    },
+    {
+        "center": {
+            "latitude": -50.73390942945369,
+            "longitude": 166.09886308236358
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "51",
+            "name": "New Zealand"
+        },
+        "tdwg3": {
+            "code": "ATP",
+            "name": "Antipodean Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 47.594254326392154,
+            "longitude": 14.151322973084692
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "AUT",
+            "name": "Austria"
+        }
+    },
+    {
+        "center": {
+            "latitude": 37.80263213357937,
+            "longitude": -25.524014573055663
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "21",
+            "name": "Macaronesia"
+        },
+        "tdwg3": {
+            "code": "AZO",
+            "name": "Azores"
+        }
+    },
+    {
+        "center": {
+            "latitude": 24.715882699523913,
+            "longitude": -78.05633869963273
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "BAH",
+            "name": "Bahamas"
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.6170273788115,
+            "longitude": 3.007566335866698
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "12",
+            "name": "Southwestern Europe"
+        },
+        "tdwg3": {
+            "code": "BAL",
+            "name": "Baleares"
+        }
+    },
+    {
+        "center": {
+            "latitude": 23.89635999641511,
+            "longitude": 90.23650289897415
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "BAN",
+            "name": "Bangladesh"
+        }
+    },
+    {
+        "center": {
+            "latitude": 9.619126656078505,
+            "longitude": 2.3388774253571265
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "BEN",
+            "name": "Benin"
+        }
+    },
+    {
+        "center": {
+            "latitude": 32.30939727385074,
+            "longitude": -64.76496023584636
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "BER",
+            "name": "Bermuda"
+        }
+    },
+    {
+        "center": {
+            "latitude": 50.55272261473643,
+            "longitude": 4.7970435910168945
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "BGM",
+            "name": "Belgium"
+        }
+    },
+    {
+        "center": {
+            "latitude": -5.502795596625012,
+            "longitude": 150.61195241869282
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "43",
+            "name": "Papuasia"
+        },
+        "tdwg3": {
+            "code": "BIS",
+            "name": "Bismarck Archipelago"
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.268178276616677,
+            "longitude": -1.7407908882469727
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "BKN",
+            "name": "Burkina"
+        }
+    },
+    {
+        "center": {
+            "latitude": 53.5344781143365,
+            "longitude": 28.036847145662357
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "BLR",
+            "name": "Belarus"
+        }
+    },
+    {
+        "center": {
+            "latitude": 56.64820850527246,
+            "longitude": 24.567039455381863
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "BLT",
+            "name": "Baltic States"
+        }
+    },
+    {
+        "center": {
+            "latitude": 17.17776426302396,
+            "longitude": -88.71295358261749
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "BLZ",
+            "name": "Belize"
+        }
+    },
+    {
+        "center": {
+            "latitude": -16.720033600875468,
+            "longitude": -64.65983370855602
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "83",
+            "name": "Western South America"
+        },
+        "tdwg3": {
+            "code": "BOL",
+            "name": "Bolivia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 0.8554335380139654,
+            "longitude": 114.2009266164506
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "BOR",
+            "name": "Borneo"
+        }
+    },
+    {
+        "center": {
+            "latitude": -22.187242003321764,
+            "longitude": 23.807531957507116
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "BOT",
+            "name": "Botswana"
+        }
+    },
+    {
+        "center": {
+            "latitude": -54.427564305394014,
+            "longitude": 3.415240602087583
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "BOU",
+            "name": "Bouvet I."
+        }
+    },
+    {
+        "center": {
+            "latitude": 54.99557277509539,
+            "longitude": -124.58418655953551
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "71",
+            "name": "Western Canada"
+        },
+        "tdwg3": {
+            "code": "BRC",
+            "name": "British Columbia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 53.551287231236564,
+            "longitude": 109.48995329717093
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "BRY",
+            "name": "Buryatiya"
+        }
+    },
+    {
+        "center": {
+            "latitude": 42.759932660660546,
+            "longitude": 25.262540558609423
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "BUL",
+            "name": "Bulgaria"
+        }
+    },
+    {
+        "center": {
+            "latitude": -3.340872065544666,
+            "longitude": 29.89111916975854
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "BUR",
+            "name": "Burundi"
+        }
+    },
+    {
+        "center": {
+            "latitude": -15.28722959210741,
+            "longitude": -54.286241150529754
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "84",
+            "name": "Brazil"
+        },
+        "tdwg3": {
+            "code": "BZC",
+            "name": "Brazil West-Central"
+        }
+    },
+    {
+        "center": {
+            "latitude": -8.644560539154373,
+            "longitude": -41.73042750074852
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "84",
+            "name": "Brazil"
+        },
+        "tdwg3": {
+            "code": "BZE",
+            "name": "Brazil Northeast"
+        }
+    },
+    {
+        "center": {
+            "latitude": -19.708928353391645,
+            "longitude": -45.47451423390018
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "84",
+            "name": "Brazil"
+        },
+        "tdwg3": {
+            "code": "BZL",
+            "name": "Brazil Southeast"
+        }
+    },
+    {
+        "center": {
+            "latitude": -4.694404016104454,
+            "longitude": -59.39001744220917
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "84",
+            "name": "Brazil"
+        },
+        "tdwg3": {
+            "code": "BZN",
+            "name": "Brazil North"
+        }
+    },
+    {
+        "center": {
+            "latitude": -27.566438655820726,
+            "longitude": -52.271591905319205
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "84",
+            "name": "Brazil"
+        },
+        "tdwg3": {
+            "code": "BZS",
+            "name": "Brazil South"
+        }
+    },
+    {
+        "center": {
+            "latitude": -5.041159984496951,
+            "longitude": 12.453397201504398
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "CAB",
+            "name": "Cabinda"
+        }
+    },
+    {
+        "center": {
+            "latitude": 6.568936600235393,
+            "longitude": 20.49081217343745
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "CAF",
+            "name": "Central African Republic"
+        }
+    },
+    {
+        "center": {
+            "latitude": 37.243404796872724,
+            "longitude": -119.59812169973651
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "76",
+            "name": "Southwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "CAL",
+            "name": "California"
+        }
+    },
+    {
+        "center": {
+            "latitude": 19.316118709644705,
+            "longitude": -81.25051713051192
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "CAY",
+            "name": "Cayman Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.720273565735429,
+            "longitude": 104.92375491800907
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "CBD",
+            "name": "Cambodia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -7.33782572835421,
+            "longitude": 72.45728539446239
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "CGS",
+            "name": "Chagos Archipelago"
+        }
+    },
+    {
+        "center": {
+            "latitude": 15.342482896468113,
+            "longitude": 18.666813329698208
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "24",
+            "name": "Northeast Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "CHA",
+            "name": "Chad"
+        }
+    },
+    {
+        "center": {
+            "latitude": 28.513540817089474,
+            "longitude": 104.64398682885732
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHC",
+            "name": "China South-Central"
+        }
+    },
+    {
+        "center": {
+            "latitude": 19.215144705966328,
+            "longitude": 109.76818743941959
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHH",
+            "name": "Hainan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 43.79908966992102,
+            "longitude": 113.56834187370589
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHI",
+            "name": "Inner Mongolia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 45.74440845506181,
+            "longitude": 126.4948086992156
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHM",
+            "name": "Manchuria"
+        }
+    },
+    {
+        "center": {
+            "latitude": 37.42734511939244,
+            "longitude": 109.46574186922321
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHN",
+            "name": "China North-Central"
+        }
+    },
+    {
+        "center": {
+            "latitude": 35.765443708816996,
+            "longitude": 96.0381546672593
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHQ",
+            "name": "Qinghai"
+        }
+    },
+    {
+        "center": {
+            "latitude": 28.093777997856456,
+            "longitude": 114.41709326758226
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHS",
+            "name": "China Southeast"
+        }
+    },
+    {
+        "center": {
+            "latitude": 31.70600171675769,
+            "longitude": 88.12184154606354
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHT",
+            "name": "Tibet"
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.12106054844163,
+            "longitude": 85.25047762313858
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "36",
+            "name": "China"
+        },
+        "tdwg3": {
+            "code": "CHX",
+            "name": "Xinjiang"
+        }
+    },
+    {
+        "center": {
+            "latitude": -12.171778117451987,
+            "longitude": 96.85534830507626
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "CKI",
+            "name": "Cocos (Keeling) I."
+        }
+    },
+    {
+        "center": {
+            "latitude": -34.94223690978216,
+            "longitude": -71.50039032736642
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "CLC",
+            "name": "Chile Central"
+        }
+    },
+    {
+        "center": {
+            "latitude": 3.900146842492268,
+            "longitude": -73.07681132513117
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "83",
+            "name": "Western South America"
+        },
+        "tdwg3": {
+            "code": "CLM",
+            "name": "Colombia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -23.861813717631474,
+            "longitude": -69.4401927726353
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "CLN",
+            "name": "Chile North"
+        }
+    },
+    {
+        "center": {
+            "latitude": -46.83309366615657,
+            "longitude": -72.74379419840218
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "CLS",
+            "name": "Chile South"
+        }
+    },
+    {
+        "center": {
+            "latitude": 5.6873420334619675,
+            "longitude": 12.75900967865404
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "CMN",
+            "name": "Cameroon"
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.635180441100935,
+            "longitude": -72.71561323409213
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "CNT",
+            "name": "Connecticut"
+        }
+    },
+    {
+        "center": {
+            "latitude": 28.29010594036488,
+            "longitude": -16.55146908207915
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "21",
+            "name": "Macaronesia"
+        },
+        "tdwg3": {
+            "code": "CNY",
+            "name": "Canary Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.99888701578787,
+            "longitude": -105.53338243448711
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "73",
+            "name": "Northwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "COL",
+            "name": "Colorado"
+        }
+    },
+    {
+        "center": {
+            "latitude": -11.64911283476197,
+            "longitude": 43.34141598682632
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "COM",
+            "name": "Comoros"
+        }
+    },
+    {
+        "center": {
+            "latitude": -0.8372713163984906,
+            "longitude": 15.227453944732721
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "CON",
+            "name": "Congo"
+        }
+    },
+    {
+        "center": {
+            "latitude": -21.223354995066398,
+            "longitude": -159.78937623392295
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "COO",
+            "name": "Cook Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 42.13685732310228,
+            "longitude": 9.120822628777487
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "12",
+            "name": "Southwestern Europe"
+        },
+        "tdwg3": {
+            "code": "COR",
+            "name": "Corse"
+        }
+    },
+    {
+        "center": {
+            "latitude": 9.967398378922194,
+            "longitude": -84.17667885678118
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "COS",
+            "name": "Costa Rica"
+        }
+    },
+    {
+        "center": {
+            "latitude": 5.529832377265183,
+            "longitude": -87.06887251840675
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "CPI",
+            "name": "C. American Pacific Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -30.913369927222792,
+            "longitude": 22.501230191384415
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "CPP",
+            "name": "Cape Provinces"
+        }
+    },
+    {
+        "center": {
+            "latitude": -17.91766433419966,
+            "longitude": 23.29950673179832
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "CPV",
+            "name": "Caprivi Strip"
+        }
+    },
+    {
+        "center": {
+            "latitude": 7.531669973142417,
+            "longitude": 134.57962157689707
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "62",
+            "name": "Northwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "CRL",
+            "name": "Caroline Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -46.4017639197522,
+            "longitude": 51.743714106767044
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "CRZ",
+            "name": "Crozet Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 52.8372470982283,
+            "longitude": 116.17886689598977
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "CTA",
+            "name": "Chita"
+        }
+    },
+    {
+        "center": {
+            "latitude": -43.90494722444745,
+            "longitude": -176.5330725805017
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "51",
+            "name": "New Zealand"
+        },
+        "tdwg3": {
+            "code": "CTM",
+            "name": "Chatham Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 21.61543010398913,
+            "longitude": -78.9667102033938
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "CUB",
+            "name": "Cuba"
+        }
+    },
+    {
+        "center": {
+            "latitude": 15.07776410334951,
+            "longitude": -23.624496359739272
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "21",
+            "name": "Macaronesia"
+        },
+        "tdwg3": {
+            "code": "CVI",
+            "name": "Cape Verde"
+        }
+    },
+    {
+        "center": {
+            "latitude": 35.05021411637837,
+            "longitude": 33.22445076470889
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "CYP",
+            "name": "Cyprus"
+        }
+    },
+    {
+        "center": {
+            "latitude": 49.34106321721888,
+            "longitude": 16.926436279226046
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "CZE",
+            "name": "Czechoslovakia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.98536300828047,
+            "longitude": -75.51949215312426
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "DEL",
+            "name": "Delaware"
+        }
+    },
+    {
+        "center": {
+            "latitude": 56.026204940433274,
+            "longitude": 9.299528107825376
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "DEN",
+            "name": "Denmark"
+        }
+    },
+    {
+        "center": {
+            "latitude": 11.761968092213655,
+            "longitude": 42.567889615311415
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "24",
+            "name": "Northeast Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "DJI",
+            "name": "Djibouti"
+        }
+    },
+    {
+        "center": {
+            "latitude": 18.912127282599172,
+            "longitude": -70.47942334079028
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "DOM",
+            "name": "Dominican Republic"
+        }
+    },
+    {
+        "center": {
+            "latitude": -26.258449506681238,
+            "longitude": -80.08577032966049
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "DSV",
+            "name": "Desventurados Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.180325072359274,
+            "longitude": 26.22722316525413
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "EAI",
+            "name": "East Aegean Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -27.13640826432572,
+            "longitude": -109.36194920336294
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "EAS",
+            "name": "Easter Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -1.452466105348558,
+            "longitude": -78.38254605174554
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "83",
+            "name": "Western South America"
+        },
+        "tdwg3": {
+            "code": "ECU",
+            "name": "Ecuador"
+        }
+    },
+    {
+        "center": {
+            "latitude": 26.36844927884728,
+            "longitude": 29.527329195914277
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "20",
+            "name": "Northern Africa"
+        },
+        "tdwg3": {
+            "code": "EGY",
+            "name": "Egypt"
+        }
+    },
+    {
+        "center": {
+            "latitude": 27.804706526480743,
+            "longitude": 92.9168962378879
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "EHM",
+            "name": "East Himalaya"
+        }
+    },
+    {
+        "center": {
+            "latitude": 13.705962812900207,
+            "longitude": -88.85588281306444
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "ELS",
+            "name": "El Salvador"
+        }
+    },
+    {
+        "center": {
+            "latitude": 1.5570288956175018,
+            "longitude": 10.490600530435485
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "EQG",
+            "name": "Equatorial Guinea"
+        }
+    },
+    {
+        "center": {
+            "latitude": 15.355864228368238,
+            "longitude": 38.807715809557074
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "24",
+            "name": "Northeast Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "ERI",
+            "name": "Eritrea"
+        }
+    },
+    {
+        "center": {
+            "latitude": 8.619813384263715,
+            "longitude": 39.628967633609676
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "24",
+            "name": "Northeast Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "ETH",
+            "name": "Ethiopia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -51.72189727110027,
+            "longitude": -58.73083083213974
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "FAL",
+            "name": "Falkland Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -17.819571224592874,
+            "longitude": 177.97989754223076
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "FIJ",
+            "name": "Fiji"
+        }
+    },
+    {
+        "center": {
+            "latitude": 64.53546882767745,
+            "longitude": 26.29489012033586
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "FIN",
+            "name": "Finland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 28.67914868828399,
+            "longitude": -82.49991882647872
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "FLA",
+            "name": "Florida"
+        }
+    },
+    {
+        "center": {
+            "latitude": 62.187584930947054,
+            "longitude": -6.801957980087478
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "FOR",
+            "name": "F\u00f8royar"
+        }
+    },
+    {
+        "center": {
+            "latitude": 46.616555796257295,
+            "longitude": 2.464149168493685
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "12",
+            "name": "Southwestern Europe"
+        },
+        "tdwg3": {
+            "code": "FRA",
+            "name": "France"
+        }
+    },
+    {
+        "center": {
+            "latitude": 3.9208801715797046,
+            "longitude": -53.24521832828006
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "82",
+            "name": "Northern South America"
+        },
+        "tdwg3": {
+            "code": "FRG",
+            "name": "French Guiana"
+        }
+    },
+    {
+        "center": {
+            "latitude": -0.5991049020392605,
+            "longitude": 11.795481319023839
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "GAB",
+            "name": "Gabon"
+        }
+    },
+    {
+        "center": {
+            "latitude": -0.5951838784475265,
+            "longitude": -91.15394564737973
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "83",
+            "name": "Western South America"
+        },
+        "tdwg3": {
+            "code": "GAL",
+            "name": "Gal\u00e1pagos"
+        }
+    },
+    {
+        "center": {
+            "latitude": 13.452231224988042,
+            "longitude": -15.435936444975724
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "GAM",
+            "name": "Gambia, The"
+        }
+    },
+    {
+        "center": {
+            "latitude": 32.66901312500583,
+            "longitude": -83.44415350979457
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "GEO",
+            "name": "Georgia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 51.082320698221004,
+            "longitude": 10.387478981774498
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "GER",
+            "name": "Germany"
+        }
+    },
+    {
+        "center": {
+            "latitude": 3.479487083237113,
+            "longitude": 8.699261169468624
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "GGI",
+            "name": "Gulf of Guinea Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 7.9373424597381526,
+            "longitude": -1.2164260786495014
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "GHA",
+            "name": "Ghana"
+        }
+    },
+    {
+        "center": {
+            "latitude": 0.9216896285021421,
+            "longitude": 173.0294589439114
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "GIL",
+            "name": "Gilbert Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.066686347730595,
+            "longitude": -14.882251127655795
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "GNB",
+            "name": "Guinea-Bissau"
+        }
+    },
+    {
+        "center": {
+            "latitude": 74.74922119850103,
+            "longitude": -41.44649845293985
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "70",
+            "name": "Subarctic America"
+        },
+        "tdwg3": {
+            "code": "GNL",
+            "name": "Greenland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 53.93632555766118,
+            "longitude": -2.5061387177800003
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "GRB",
+            "name": "Great Britain"
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.473091295354735,
+            "longitude": 22.579818477391782
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "GRC",
+            "name": "Greece"
+        }
+    },
+    {
+        "center": {
+            "latitude": 23.925265870940713,
+            "longitude": 54.343107468795935
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "35",
+            "name": "Arabian Peninsula"
+        },
+        "tdwg3": {
+            "code": "GST",
+            "name": "Gulf States"
+        }
+    },
+    {
+        "center": {
+            "latitude": 15.687002833336694,
+            "longitude": -90.36520084127956
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "GUA",
+            "name": "Guatemala"
+        }
+    },
+    {
+        "center": {
+            "latitude": 10.4295528613313,
+            "longitude": -10.925538368914552
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "GUI",
+            "name": "Guinea"
+        }
+    },
+    {
+        "center": {
+            "latitude": 4.777080253400476,
+            "longitude": -58.98808098865815
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "82",
+            "name": "Northern South America"
+        },
+        "tdwg3": {
+            "code": "GUY",
+            "name": "Guyana"
+        }
+    },
+    {
+        "center": {
+            "latitude": 18.915025085521165,
+            "longitude": -72.70129623604073
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "HAI",
+            "name": "Haiti"
+        }
+    },
+    {
+        "center": {
+            "latitude": 19.593853734605975,
+            "longitude": -155.50804585329507
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "63",
+            "name": "North-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "HAW",
+            "name": "Hawaii"
+        }
+    },
+    {
+        "center": {
+            "latitude": 0.8023073087686557,
+            "longitude": -176.63825810082383
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "HBI",
+            "name": "Howland-Baker Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -53.08763620354695,
+            "longitude": 73.50329371918222
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "HMD",
+            "name": "Heard-McDonald Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 14.816084863012646,
+            "longitude": -86.62364570716421
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "HON",
+            "name": "Honduras"
+        }
+    },
+    {
+        "center": {
+            "latitude": 47.16353933666573,
+            "longitude": 19.399522986943968
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "HUN",
+            "name": "Hungary"
+        }
+    },
+    {
+        "center": {
+            "latitude": 64.9911630523954,
+            "longitude": -18.586079108139714
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "ICE",
+            "name": "Iceland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.39725415168181,
+            "longitude": -114.657579209525
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "73",
+            "name": "Northwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "IDA",
+            "name": "Idaho"
+        }
+    },
+    {
+        "center": {
+            "latitude": 40.119969735931996,
+            "longitude": -89.15653180837066
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "ILL",
+            "name": "Illinois"
+        }
+    },
+    {
+        "center": {
+            "latitude": 21.722253380951955,
+            "longitude": 78.3926617936618
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "IND",
+            "name": "India"
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.911452420437755,
+            "longitude": -86.28758657470489
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "INI",
+            "name": "Indiana"
+        }
+    },
+    {
+        "center": {
+            "latitude": 42.091881445255936,
+            "longitude": -93.49520432610983
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "IOW",
+            "name": "Iowa"
+        }
+    },
+    {
+        "center": {
+            "latitude": 53.43532472051918,
+            "longitude": -7.863696494629036
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "IRE",
+            "name": "Ireland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 57.09472385860553,
+            "longitude": 106.3652507595581
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "IRK",
+            "name": "Irkutsk"
+        }
+    },
+    {
+        "center": {
+            "latitude": 32.56395861325446,
+            "longitude": 54.30415492433093
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "IRN",
+            "name": "Iran"
+        }
+    },
+    {
+        "center": {
+            "latitude": 33.045087311287546,
+            "longitude": 43.77205895997729
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "IRQ",
+            "name": "Iraq"
+        }
+    },
+    {
+        "center": {
+            "latitude": 43.51432957816081,
+            "longitude": 12.177021830906114
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "ITA",
+            "name": "Italy"
+        }
+    },
+    {
+        "center": {
+            "latitude": 7.630953455515812,
+            "longitude": -5.558495318536669
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "IVO",
+            "name": "Ivory Coast"
+        }
+    },
+    {
+        "center": {
+            "latitude": 18.158399147629275,
+            "longitude": -77.33222506769776
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "JAM",
+            "name": "Jamaica"
+        }
+    },
+    {
+        "center": {
+            "latitude": 36.65254912173422,
+            "longitude": 137.98893774380545
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "38",
+            "name": "Eastern Asia"
+        },
+        "tdwg3": {
+            "code": "JAP",
+            "name": "Japan"
+        }
+    },
+    {
+        "center": {
+            "latitude": -7.293067528567373,
+            "longitude": 109.92479187531565
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "JAW",
+            "name": "Jawa"
+        }
+    },
+    {
+        "center": {
+            "latitude": -33.63032008976975,
+            "longitude": -78.87252520718296
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "JNF",
+            "name": "Juan Fern\u00e1ndez Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 58.93405919689461,
+            "longitude": 162.98211054364072
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "31",
+            "name": "Russian Far East"
+        },
+        "tdwg3": {
+            "code": "KAM",
+            "name": "Kamchatka"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.46301702922415,
+            "longitude": -98.37682723488787
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "KAN",
+            "name": "Kansas"
+        }
+    },
+    {
+        "center": {
+            "latitude": 48.16093117591622,
+            "longitude": 67.27741317728857
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "32",
+            "name": "Middle Asia"
+        },
+        "tdwg3": {
+            "code": "KAZ",
+            "name": "Kazakhstan"
+        }
+    },
+    {
+        "center": {
+            "latitude": -49.317047766623126,
+            "longitude": 69.52916422007313
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "KEG",
+            "name": "Kerguelen"
+        }
+    },
+    {
+        "center": {
+            "latitude": 0.517676747577573,
+            "longitude": 37.84725436165441
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "25",
+            "name": "East Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "KEN",
+            "name": "Kenya"
+        }
+    },
+    {
+        "center": {
+            "latitude": -29.25808759476269,
+            "longitude": -177.90091796435115
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "51",
+            "name": "New Zealand"
+        },
+        "tdwg3": {
+            "code": "KER",
+            "name": "Kermadec Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.47135909745506,
+            "longitude": 74.5939854749328
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "32",
+            "name": "Middle Asia"
+        },
+        "tdwg3": {
+            "code": "KGZ",
+            "name": "Kirgizistan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 54.567534881183555,
+            "longitude": 137.12679226166722
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "31",
+            "name": "Russian Far East"
+        },
+        "tdwg3": {
+            "code": "KHA",
+            "name": "Khabarovsk"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.601592386077144,
+            "longitude": 127.47851012994123
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "38",
+            "name": "Eastern Asia"
+        },
+        "tdwg3": {
+            "code": "KOR",
+            "name": "Korea"
+        }
+    },
+    {
+        "center": {
+            "latitude": 66.78388263972299,
+            "longitude": 95.86526630331596
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "KRA",
+            "name": "Krasnoyarsk"
+        }
+    },
+    {
+        "center": {
+            "latitude": 35.22235880034922,
+            "longitude": 24.89610320842659
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "KRI",
+            "name": "Kriti"
+        }
+    },
+    {
+        "center": {
+            "latitude": 45.25554118116138,
+            "longitude": 34.355103822618084
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "KRY",
+            "name": "Krym"
+        }
+    },
+    {
+        "center": {
+            "latitude": 37.528899964605074,
+            "longitude": -85.25291700416707
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "KTY",
+            "name": "Kentucky"
+        }
+    },
+    {
+        "center": {
+            "latitude": 45.039753402789415,
+            "longitude": 147.83485999887537
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "31",
+            "name": "Russian Far East"
+        },
+        "tdwg3": {
+            "code": "KUR",
+            "name": "Kuril Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 29.31164417460019,
+            "longitude": 47.54699650684642
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "35",
+            "name": "Arabian Peninsula"
+        },
+        "tdwg3": {
+            "code": "KUW",
+            "name": "Kuwait"
+        }
+    },
+    {
+        "center": {
+            "latitude": 24.770711285876118,
+            "longitude": 141.32655349496096
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "38",
+            "name": "Eastern Asia"
+        },
+        "tdwg3": {
+            "code": "KZN",
+            "name": "Kazan-retto"
+        }
+    },
+    {
+        "center": {
+            "latitude": 54.2325388035062,
+            "longitude": -61.97992481702238
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "72",
+            "name": "Eastern Canada"
+        },
+        "tdwg3": {
+            "code": "LAB",
+            "name": "Labrador"
+        }
+    },
+    {
+        "center": {
+            "latitude": 18.51082894371632,
+            "longitude": 103.75079675868929
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "LAO",
+            "name": "Laos"
+        }
+    },
+    {
+        "center": {
+            "latitude": 6.451159403956638,
+            "longitude": -9.314065733335541
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "LBR",
+            "name": "Liberia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 34.94927392679926,
+            "longitude": 38.381133844890414
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "LBS",
+            "name": "Lebanon-Syria"
+        }
+    },
+    {
+        "center": {
+            "latitude": 27.030374641008645,
+            "longitude": 18.01915331434846
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "20",
+            "name": "Northern Africa"
+        },
+        "tdwg3": {
+            "code": "LBY",
+            "name": "Libya"
+        }
+    },
+    {
+        "center": {
+            "latitude": 8.272308332119579,
+            "longitude": 73.05002139250185
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "LDV",
+            "name": "Laccadive Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 16.255839908636627,
+            "longitude": -61.55570920289166
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "LEE",
+            "name": "Leeward Is. AB Ant"
+        }
+    },
+    {
+        "center": {
+            "latitude": -29.588127725021607,
+            "longitude": 28.234824893829902
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "LES",
+            "name": "Lesotho"
+        }
+    },
+    {
+        "center": {
+            "latitude": 1.8622811054581216,
+            "longitude": -157.37292007608687
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "LIN",
+            "name": "Line Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 31.07419631477368,
+            "longitude": -92.02342591139063
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "LOU",
+            "name": "Louisiana"
+        }
+    },
+    {
+        "center": {
+            "latitude": -9.254319251820297,
+            "longitude": 125.13904731742039
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "LSI",
+            "name": "Lesser Sunda Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 64.92899494577273,
+            "longitude": 163.91330796896003
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "31",
+            "name": "Russian Far East"
+        },
+        "tdwg3": {
+            "code": "MAG",
+            "name": "Magadan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 45.39067444297442,
+            "longitude": -69.23859002489843
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "MAI",
+            "name": "Maine"
+        }
+    },
+    {
+        "center": {
+            "latitude": 54.92661260538331,
+            "longitude": -97.43508672412607
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "71",
+            "name": "Western Canada"
+        },
+        "tdwg3": {
+            "code": "MAN",
+            "name": "Manitoba"
+        }
+    },
+    {
+        "center": {
+            "latitude": -54.626612786910606,
+            "longitude": 158.8974366269289
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "MAQ",
+            "name": "Macquarie Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 42.27292785976364,
+            "longitude": -71.79574022477246
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "MAS",
+            "name": "Massachusetts"
+        }
+    },
+    {
+        "center": {
+            "latitude": -20.291840854664343,
+            "longitude": 57.56815258621908
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "MAU",
+            "name": "Mauritius"
+        }
+    },
+    {
+        "center": {
+            "latitude": -17.06501822934858,
+            "longitude": 42.742905137102
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "MCI",
+            "name": "Mozambique Channel Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 24.30739489444261,
+            "longitude": 153.9536984229014
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "62",
+            "name": "Northwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "MCS",
+            "name": "Marcus I."
+        }
+    },
+    {
+        "center": {
+            "latitude": -19.38776483002595,
+            "longitude": 46.70423206465797
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "MDG",
+            "name": "Madagascar"
+        }
+    },
+    {
+        "center": {
+            "latitude": 32.73505674214469,
+            "longitude": -16.99868776334404
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "21",
+            "name": "Macaronesia"
+        },
+        "tdwg3": {
+            "code": "MDR",
+            "name": "Madeira"
+        }
+    },
+    {
+        "center": {
+            "latitude": -0.6046818044043009,
+            "longitude": 73.10123717991281
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "MDV",
+            "name": "Maldives"
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.87801706032258,
+            "longitude": -85.7329046422853
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "MIC",
+            "name": "Michigan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 46.34037137112644,
+            "longitude": -94.21326542944878
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "MIN",
+            "name": "Minnesota"
+        }
+    },
+    {
+        "center": {
+            "latitude": 17.346246702884173,
+            "longitude": -3.526813307068302
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "MLI",
+            "name": "Mali"
+        }
+    },
+    {
+        "center": {
+            "latitude": -13.209454732185149,
+            "longitude": 34.29000848311003
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "26",
+            "name": "South Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "MLW",
+            "name": "Malawi"
+        }
+    },
+    {
+        "center": {
+            "latitude": 4.0529756706415405,
+            "longitude": 102.16720293947374
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "MLY",
+            "name": "Malaya"
+        }
+    },
+    {
+        "center": {
+            "latitude": 47.0355891108828,
+            "longitude": -109.63651897270967
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "73",
+            "name": "Northwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "MNT",
+            "name": "Montana"
+        }
+    },
+    {
+        "center": {
+            "latitude": 0.7647708539654313,
+            "longitude": 128.0044552851636
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "MOL",
+            "name": "Maluku"
+        }
+    },
+    {
+        "center": {
+            "latitude": 46.831135077617404,
+            "longitude": 103.07615397721375
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "37",
+            "name": "Mongolia"
+        },
+        "tdwg3": {
+            "code": "MON",
+            "name": "Mongolia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 31.897879271185502,
+            "longitude": -6.3219098751061615
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "20",
+            "name": "Northern Africa"
+        },
+        "tdwg3": {
+            "code": "MOR",
+            "name": "Morocco"
+        }
+    },
+    {
+        "center": {
+            "latitude": -17.279374409167257,
+            "longitude": 35.536253323168665
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "26",
+            "name": "South Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "MOZ",
+            "name": "Mozambique"
+        }
+    },
+    {
+        "center": {
+            "latitude": -46.91276421416892,
+            "longitude": 37.7133807375885
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "MPE",
+            "name": "Marion-Prince Edward Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 13.462114898352223,
+            "longitude": 144.7910732281001
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "62",
+            "name": "Northwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "MRN",
+            "name": "Marianas"
+        }
+    },
+    {
+        "center": {
+            "latitude": -8.865847250925817,
+            "longitude": -140.10392365373608
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "MRQ",
+            "name": "Marquesas"
+        }
+    },
+    {
+        "center": {
+            "latitude": 7.310437636129541,
+            "longitude": 168.71457703060594
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "62",
+            "name": "Northwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "MRS",
+            "name": "Marshall Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.066720404195344,
+            "longitude": -76.8089603128161
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "MRY",
+            "name": "Maryland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 32.76202727001861,
+            "longitude": -89.67483127103708
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "MSI",
+            "name": "Mississippi"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.382702210863116,
+            "longitude": -92.49004657185819
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "MSO",
+            "name": "Missouri"
+        }
+    },
+    {
+        "center": {
+            "latitude": 20.260857896357916,
+            "longitude": -10.33016088732884
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "MTN",
+            "name": "Mauritania"
+        }
+    },
+    {
+        "center": {
+            "latitude": 19.13524192649994,
+            "longitude": -98.57866271070347
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "79",
+            "name": "Mexico"
+        },
+        "tdwg3": {
+            "code": "MXC",
+            "name": "Mexico Central"
+        }
+    },
+    {
+        "center": {
+            "latitude": 25.862498090517924,
+            "longitude": -103.06818842387172
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "79",
+            "name": "Mexico"
+        },
+        "tdwg3": {
+            "code": "MXE",
+            "name": "Mexico Northeast"
+        }
+    },
+    {
+        "center": {
+            "latitude": 19.40851738976912,
+            "longitude": -96.42307513022736
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "79",
+            "name": "Mexico"
+        },
+        "tdwg3": {
+            "code": "MXG",
+            "name": "Mexico Gulf"
+        }
+    },
+    {
+        "center": {
+            "latitude": 29.05988774118828,
+            "longitude": -118.31321781416176
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "79",
+            "name": "Mexico"
+        },
+        "tdwg3": {
+            "code": "MXI",
+            "name": "Mexican Pacific Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 28.504232874666577,
+            "longitude": -111.37797108426015
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "79",
+            "name": "Mexico"
+        },
+        "tdwg3": {
+            "code": "MXN",
+            "name": "Mexico Northwest"
+        }
+    },
+    {
+        "center": {
+            "latitude": 18.844597880097968,
+            "longitude": -100.68706238546406
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "79",
+            "name": "Mexico"
+        },
+        "tdwg3": {
+            "code": "MXS",
+            "name": "Mexico Southwest"
+        }
+    },
+    {
+        "center": {
+            "latitude": 18.49815005142623,
+            "longitude": -90.56046886110276
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "79",
+            "name": "Mexico"
+        },
+        "tdwg3": {
+            "code": "MXT",
+            "name": "Mexico Southeast"
+        }
+    },
+    {
+        "center": {
+            "latitude": 21.238541249066788,
+            "longitude": 96.5085325915453
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "MYA",
+            "name": "Myanmar"
+        }
+    },
+    {
+        "center": {
+            "latitude": -22.241930645516515,
+            "longitude": 17.073219871572356
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "NAM",
+            "name": "Namibia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -28.744068470312286,
+            "longitude": 30.698343140244585
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "NAT",
+            "name": "KwaZulu-Natal"
+        }
+    },
+    {
+        "center": {
+            "latitude": 46.62195940142031,
+            "longitude": -66.38342933047132
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "72",
+            "name": "Eastern Canada"
+        },
+        "tdwg3": {
+            "code": "NBR",
+            "name": "New Brunswick"
+        }
+    },
+    {
+        "center": {
+            "latitude": 35.556588692228345,
+            "longitude": -79.41887047465046
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "NCA",
+            "name": "North Carolina"
+        }
+    },
+    {
+        "center": {
+            "latitude": 7.014997977882277,
+            "longitude": 93.81229763632118
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "NCB",
+            "name": "Nicobar Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.352010244336725,
+            "longitude": 42.84944791560178
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "33",
+            "name": "Caucasus"
+        },
+        "tdwg3": {
+            "code": "NCS",
+            "name": "North Caucasus"
+        }
+    },
+    {
+        "center": {
+            "latitude": 47.446912329291585,
+            "longitude": -100.46477151326431
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "NDA",
+            "name": "North Dakota"
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.528305932712115,
+            "longitude": -99.78265496839882
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "NEB",
+            "name": "Nebraska"
+        }
+    },
+    {
+        "center": {
+            "latitude": 28.252602501485118,
+            "longitude": 83.93229511661237
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "NEP",
+            "name": "Nepal"
+        }
+    },
+    {
+        "center": {
+            "latitude": 52.25521556623151,
+            "longitude": 5.653963763358549
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "NET",
+            "name": "Netherlands"
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.33792442256741,
+            "longitude": -116.66076287230453
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "76",
+            "name": "Southwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "NEV",
+            "name": "Nevada"
+        }
+    },
+    {
+        "center": {
+            "latitude": -29.03677042626792,
+            "longitude": 167.95364520179353
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "NFK",
+            "name": "Norfolk Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 48.71372732308049,
+            "longitude": -56.06190064838571
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "72",
+            "name": "Eastern Canada"
+        },
+        "tdwg3": {
+            "code": "NFL",
+            "name": "Newfoundland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 9.598337206589903,
+            "longitude": 8.102848039299369
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "NGA",
+            "name": "Nigeria"
+        }
+    },
+    {
+        "center": {
+            "latitude": 17.422051412269052,
+            "longitude": 9.405661923374108
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "NGR",
+            "name": "Niger"
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.834822398243913,
+            "longitude": -85.01483890987043
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "NIC",
+            "name": "Nicaragua"
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.186724404294527,
+            "longitude": -68.29603299719344
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "NLA",
+            "name": "Netherlands Antilles"
+        }
+    },
+    {
+        "center": {
+            "latitude": 26.470637453914037,
+            "longitude": 127.93259455402239
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "38",
+            "name": "Eastern Asia"
+        },
+        "tdwg3": {
+            "code": "NNS",
+            "name": "Nansei-shoto"
+        }
+    },
+    {
+        "center": {
+            "latitude": 64.19477442522272,
+            "longitude": 13.97155064988203
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "NOR",
+            "name": "Norway"
+        }
+    },
+    {
+        "center": {
+            "latitude": -0.5208493835063649,
+            "longitude": 166.9309131953818
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "NRU",
+            "name": "Nauru"
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.90127315978565,
+            "longitude": -63.93360737265952
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "72",
+            "name": "Eastern Canada"
+        },
+        "tdwg3": {
+            "code": "NSC",
+            "name": "Nova Scotia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -32.18482779081153,
+            "longitude": 147.01291216663898
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "NSW",
+            "name": "New South Wales"
+        }
+    },
+    {
+        "center": {
+            "latitude": -19.48555237560456,
+            "longitude": 133.37257081938947
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "NTA",
+            "name": "Northern Territory"
+        }
+    },
+    {
+        "center": {
+            "latitude": -19.051327203073427,
+            "longitude": -169.85806560470795
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "NUE",
+            "name": "Niue"
+        }
+    },
+    {
+        "center": {
+            "latitude": 65.90006186830566,
+            "longitude": -98.6290733819357
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "70",
+            "name": "Subarctic America"
+        },
+        "tdwg3": {
+            "code": "NUN",
+            "name": "Nunavut"
+        }
+    },
+    {
+        "center": {
+            "latitude": -21.289396516603592,
+            "longitude": 165.4375403560706
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "NWC",
+            "name": "New Caledonia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -5.348306193505434,
+            "longitude": 140.9516286764812
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "43",
+            "name": "Papuasia"
+        },
+        "tdwg3": {
+            "code": "NWG",
+            "name": "New Guinea"
+        }
+    },
+    {
+        "center": {
+            "latitude": 43.69702558474047,
+            "longitude": -71.60217610174162
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "NWH",
+            "name": "New Hampshire"
+        }
+    },
+    {
+        "center": {
+            "latitude": 40.21423106521288,
+            "longitude": -74.65511973522001
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "NWJ",
+            "name": "New Jersey"
+        }
+    },
+    {
+        "center": {
+            "latitude": 34.42696394432716,
+            "longitude": -106.08984592041179
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "77",
+            "name": "South-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "NWM",
+            "name": "New Mexico"
+        }
+    },
+    {
+        "center": {
+            "latitude": 64.34194577025023,
+            "longitude": -119.5222776769252
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "70",
+            "name": "Subarctic America"
+        },
+        "tdwg3": {
+            "code": "NWT",
+            "name": "Northwest Territories"
+        }
+    },
+    {
+        "center": {
+            "latitude": 43.04208825676715,
+            "longitude": -75.76442168382964
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "NWY",
+            "name": "New York"
+        }
+    },
+    {
+        "center": {
+            "latitude": -38.60475848549926,
+            "longitude": 175.72337594211572
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "51",
+            "name": "New Zealand"
+        },
+        "tdwg3": {
+            "code": "NZN",
+            "name": "New Zealand North"
+        }
+    },
+    {
+        "center": {
+            "latitude": -43.96099087115364,
+            "longitude": 170.53309787548739
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "51",
+            "name": "New Zealand"
+        },
+        "tdwg3": {
+            "code": "NZS",
+            "name": "New Zealand South"
+        }
+    },
+    {
+        "center": {
+            "latitude": -28.599147471903184,
+            "longitude": 26.875770060183196
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "OFS",
+            "name": "Free State"
+        }
+    },
+    {
+        "center": {
+            "latitude": 27.063951716269735,
+            "longitude": 142.21297913257283
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "38",
+            "name": "Eastern Asia"
+        },
+        "tdwg3": {
+            "code": "OGA",
+            "name": "Ogasawara-shoto"
+        }
+    },
+    {
+        "center": {
+            "latitude": 40.421428719783044,
+            "longitude": -82.71119983171269
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "OHI",
+            "name": "Ohio"
+        }
+    },
+    {
+        "center": {
+            "latitude": 35.58288291992662,
+            "longitude": -97.5065320527774
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "OKL",
+            "name": "Oklahoma"
+        }
+    },
+    {
+        "center": {
+            "latitude": 20.587925852428793,
+            "longitude": 56.11204826807726
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "35",
+            "name": "Arabian Peninsula"
+        },
+        "tdwg3": {
+            "code": "OMA",
+            "name": "Oman"
+        }
+    },
+    {
+        "center": {
+            "latitude": 50.07587737339381,
+            "longitude": -85.86089292648289
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "72",
+            "name": "Eastern Canada"
+        },
+        "tdwg3": {
+            "code": "ONT",
+            "name": "Ontario"
+        }
+    },
+    {
+        "center": {
+            "latitude": 43.93397533897569,
+            "longitude": -120.52290579591691
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "73",
+            "name": "Northwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "ORE",
+            "name": "Oregon"
+        }
+    },
+    {
+        "center": {
+            "latitude": 29.346262755849548,
+            "longitude": 68.79020748926195
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "PAK",
+            "name": "Pakistan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 31.307231567632556,
+            "longitude": 36.36125840709557
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "PAL",
+            "name": "Palestine"
+        }
+    },
+    {
+        "center": {
+            "latitude": 8.513076097575656,
+            "longitude": -80.12390664538042
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "80",
+            "name": "Central America"
+        },
+        "tdwg3": {
+            "code": "PAN",
+            "name": "Panama"
+        }
+    },
+    {
+        "center": {
+            "latitude": -23.23407395352984,
+            "longitude": -58.39073520464811
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "PAR",
+            "name": "Paraguay"
+        }
+    },
+    {
+        "center": {
+            "latitude": 46.376187315634574,
+            "longitude": -63.23797392886748
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "72",
+            "name": "Eastern Canada"
+        },
+        "tdwg3": {
+            "code": "PEI",
+            "name": "Prince Edward I."
+        }
+    },
+    {
+        "center": {
+            "latitude": 40.90125348744948,
+            "longitude": -77.84654268388203
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "PEN",
+            "name": "Pennsylvania"
+        }
+    },
+    {
+        "center": {
+            "latitude": -9.158095365200646,
+            "longitude": -74.3850806161041
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "83",
+            "name": "Western South America"
+        },
+        "tdwg3": {
+            "code": "PER",
+            "name": "Peru"
+        }
+    },
+    {
+        "center": {
+            "latitude": 15.95755125487626,
+            "longitude": 121.43092618148286
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "PHI",
+            "name": "Philippines"
+        }
+    },
+    {
+        "center": {
+            "latitude": -2.811686352571046,
+            "longitude": -171.6688229761336
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "PHX",
+            "name": "Phoenix Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -24.36497407353444,
+            "longitude": -128.3155299291687
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "PIT",
+            "name": "Pitcairn Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 52.13350006214198,
+            "longitude": 19.414388273985168
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "POL",
+            "name": "Poland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.66348687076721,
+            "longitude": -7.97730938395953
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "12",
+            "name": "Southwestern Europe"
+        },
+        "tdwg3": {
+            "code": "POR",
+            "name": "Portugal"
+        }
+    },
+    {
+        "center": {
+            "latitude": 45.16356736158147,
+            "longitude": 134.70282319660973
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "31",
+            "name": "Russian Far East"
+        },
+        "tdwg3": {
+            "code": "PRM",
+            "name": "Primorye"
+        }
+    },
+    {
+        "center": {
+            "latitude": 18.215276965509666,
+            "longitude": -66.50345306370987
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "PUE",
+            "name": "Puerto Rico"
+        }
+    },
+    {
+        "center": {
+            "latitude": -22.57952655252418,
+            "longitude": 144.53577661700297
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "QLD",
+            "name": "Queensland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 53.40058766011519,
+            "longitude": -71.81529246869064
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "72",
+            "name": "Eastern Canada"
+        },
+        "tdwg3": {
+            "code": "QUE",
+            "name": "Qu\u00e9bec"
+        }
+    },
+    {
+        "center": {
+            "latitude": -21.121620413237608,
+            "longitude": 55.5312525070576
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "REU",
+            "name": "R\u00e9union"
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.702205674516414,
+            "longitude": -71.60738743374512
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "RHO",
+            "name": "Rhode I."
+        }
+    },
+    {
+        "center": {
+            "latitude": -19.71433334844358,
+            "longitude": 63.412689559059416
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "ROD",
+            "name": "Rodrigues"
+        }
+    },
+    {
+        "center": {
+            "latitude": 45.85134307016115,
+            "longitude": 24.968942820447253
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "ROM",
+            "name": "Romania"
+        }
+    },
+    {
+        "center": {
+            "latitude": 54.8870629607332,
+            "longitude": 39.80273183633884
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "RUC",
+            "name": "Central European Russia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 56.12907601198812,
+            "longitude": 53.72736004327126
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "RUE",
+            "name": "East European Russia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 64.4824336229493,
+            "longitude": 45.86579010097304
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "RUN",
+            "name": "North European Russia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 48.924768196660445,
+            "longitude": 44.66990764078428
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "RUS",
+            "name": "South European Russia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 58.76976807849829,
+            "longitude": 31.241656299447595
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "RUW",
+            "name": "Northwest European Russia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -2.0019115480060505,
+            "longitude": 29.896263981237933
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "RWA",
+            "name": "Rwanda"
+        }
+    },
+    {
+        "center": {
+            "latitude": 50.30895773426713,
+            "longitude": 142.70703124329808
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "31",
+            "name": "Russian Far East"
+        },
+        "tdwg3": {
+            "code": "SAK",
+            "name": "Sakhalin"
+        }
+    },
+    {
+        "center": {
+            "latitude": -13.645167661071696,
+            "longitude": -172.45426472774673
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "SAM",
+            "name": "Samoa"
+        }
+    },
+    {
+        "center": {
+            "latitude": 40.099285223840255,
+            "longitude": 9.024014664727776
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "12",
+            "name": "Southwestern Europe"
+        },
+        "tdwg3": {
+            "code": "SAR",
+            "name": "Sardegna"
+        }
+    },
+    {
+        "center": {
+            "latitude": 54.422513726191,
+            "longitude": -105.8982830469657
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "71",
+            "name": "Western Canada"
+        },
+        "tdwg3": {
+            "code": "SAS",
+            "name": "Saskatchewan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 24.031903402220138,
+            "longitude": 44.58289208615333
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "35",
+            "name": "Arabian Peninsula"
+        },
+        "tdwg3": {
+            "code": "SAU",
+            "name": "Saudi Arabia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 33.905176236224996,
+            "longitude": -80.88342301979837
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "SCA",
+            "name": "South Carolina"
+        }
+    },
+    {
+        "center": {
+            "latitude": -17.66947735142292,
+            "longitude": -149.39554484541262
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "SCI",
+            "name": "Society Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 10.826363379181647,
+            "longitude": 115.84317319992861
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "SCS",
+            "name": "South China Sea"
+        }
+    },
+    {
+        "center": {
+            "latitude": -10.774040783264901,
+            "longitude": 165.93764146218408
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "SCZ",
+            "name": "Santa Cruz Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.43732409669345,
+            "longitude": -100.21692299986081
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "SDA",
+            "name": "South Dakota"
+        }
+    },
+    {
+        "center": {
+            "latitude": 30.142960230516575,
+            "longitude": -15.862686475116412
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "21",
+            "name": "Macaronesia"
+        },
+        "tdwg3": {
+            "code": "SEL",
+            "name": "Selvagens"
+        }
+    },
+    {
+        "center": {
+            "latitude": 14.371319215679387,
+            "longitude": -14.470251318662397
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "SEN",
+            "name": "Senegal"
+        }
+    },
+    {
+        "center": {
+            "latitude": -4.650598029922804,
+            "longitude": 55.47097540619638
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "29",
+            "name": "Western Indian Ocean"
+        },
+        "tdwg3": {
+            "code": "SEY",
+            "name": "Seychelles"
+        }
+    },
+    {
+        "center": {
+            "latitude": -54.372523289898105,
+            "longitude": -36.67408705398562
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "SGE",
+            "name": "South Georgia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 37.59689512003851,
+            "longitude": 14.179810792382717
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "SIC",
+            "name": "Sicilia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 8.552144839150287,
+            "longitude": -11.777195401636629
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "SIE",
+            "name": "Sierra Leone"
+        }
+    },
+    {
+        "center": {
+            "latitude": 29.713418202985395,
+            "longitude": 33.77746567858765
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "SIN",
+            "name": "Sinai"
+        }
+    },
+    {
+        "center": {
+            "latitude": -30.087837180929014,
+            "longitude": 135.82257816574744
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "SOA",
+            "name": "South Australia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 12.531358309810106,
+            "longitude": 53.85406795395902
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "24",
+            "name": "Northeast Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "SOC",
+            "name": "Socotra"
+        }
+    },
+    {
+        "center": {
+            "latitude": -6.223197217989649,
+            "longitude": 155.31035485665038
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "43",
+            "name": "Papuasia"
+        },
+        "tdwg3": {
+            "code": "SOL",
+            "name": "Solomon Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 6.059122939104365,
+            "longitude": 45.85245983829148
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "24",
+            "name": "Northeast Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "SOM",
+            "name": "Somalia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 40.393470602570936,
+            "longitude": -3.5428504356996093
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "12",
+            "name": "Southwestern Europe"
+        },
+        "tdwg3": {
+            "code": "SPA",
+            "name": "Spain"
+        }
+    },
+    {
+        "center": {
+            "latitude": 7.624599234277032,
+            "longitude": 80.69105938258318
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "SRL",
+            "name": "Sri Lanka"
+        }
+    },
+    {
+        "center": {
+            "latitude": -58.43277881204722,
+            "longitude": -26.335145194448152
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "SSA",
+            "name": "South Sandwich Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": -15.961224671656655,
+            "longitude": -5.7069458576183925
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "28",
+            "name": "Middle Atlantic Ocean"
+        },
+        "tdwg3": {
+            "code": "STH",
+            "name": "St.Helena"
+        }
+    },
+    {
+        "center": {
+            "latitude": 13.888774714263077,
+            "longitude": 30.09157465053572
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "24",
+            "name": "Northeast Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "SUD",
+            "name": "Sudan"
+        }
+    },
+    {
+        "center": {
+            "latitude": -2.001987029374948,
+            "longitude": 121.11451583385116
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "SUL",
+            "name": "Sulawesi"
+        }
+    },
+    {
+        "center": {
+            "latitude": -0.45050874960365106,
+            "longitude": 101.514478233757
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "SUM",
+            "name": "Sumatera"
+        }
+    },
+    {
+        "center": {
+            "latitude": 4.111379787073274,
+            "longitude": -55.92082309386865
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "82",
+            "name": "Northern South America"
+        },
+        "tdwg3": {
+            "code": "SUR",
+            "name": "Surinam"
+        }
+    },
+    {
+        "center": {
+            "latitude": 78.61755824007207,
+            "longitude": 15.886820717483385
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "SVA",
+            "name": "Svalbard"
+        }
+    },
+    {
+        "center": {
+            "latitude": 16.384669685795636,
+            "longitude": -86.430038885021
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "SWC",
+            "name": "Southwest Caribbean"
+        }
+    },
+    {
+        "center": {
+            "latitude": 62.83916319920513,
+            "longitude": 16.73070093800464
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "10",
+            "name": "Northern Europe"
+        },
+        "tdwg3": {
+            "code": "SWE",
+            "name": "Sweden"
+        }
+    },
+    {
+        "center": {
+            "latitude": 46.79474324631822,
+            "longitude": 8.198421700272048
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "11",
+            "name": "Middle Europe"
+        },
+        "tdwg3": {
+            "code": "SWI",
+            "name": "Switzerland"
+        }
+    },
+    {
+        "center": {
+            "latitude": -26.574439461127373,
+            "longitude": 31.48696147813507
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "SWZ",
+            "name": "Swaziland"
+        }
+    },
+    {
+        "center": {
+            "latitude": 23.742054441865967,
+            "longitude": 120.9670427956613
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "38",
+            "name": "Eastern Asia"
+        },
+        "tdwg3": {
+            "code": "TAI",
+            "name": "Taiwan"
+        }
+    },
+    {
+        "center": {
+            "latitude": -6.2820384610032365,
+            "longitude": 34.81472565275837
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "25",
+            "name": "East Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "TAN",
+            "name": "Tanzania"
+        }
+    },
+    {
+        "center": {
+            "latitude": -42.035966383784775,
+            "longitude": 146.61245905735706
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "TAS",
+            "name": "Tasmania"
+        }
+    },
+    {
+        "center": {
+            "latitude": 21.800473195276332,
+            "longitude": -71.74736193601444
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "TCI",
+            "name": "Turks-Caicos Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.003572966081215,
+            "longitude": 45.59435232489203
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "33",
+            "name": "Caucasus"
+        },
+        "tdwg3": {
+            "code": "TCS",
+            "name": "Transcaucasus"
+        }
+    },
+    {
+        "center": {
+            "latitude": -37.106046647479786,
+            "longitude": -12.266767311101376
+        },
+        "tdwg1": {
+            "code": "9",
+            "name": "Antarctic"
+        },
+        "tdwg2": {
+            "code": "90",
+            "name": "Subantarctic Islands"
+        },
+        "tdwg3": {
+            "code": "TDC",
+            "name": "Tristan da Cunha"
+        }
+    },
+    {
+        "center": {
+            "latitude": 35.85996699011904,
+            "longitude": -86.32609452454068
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "TEN",
+            "name": "Tennessee"
+        }
+    },
+    {
+        "center": {
+            "latitude": 31.500603069331103,
+            "longitude": -99.35119687487575
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "77",
+            "name": "South-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "TEX",
+            "name": "Texas"
+        }
+    },
+    {
+        "center": {
+            "latitude": 15.131314738011813,
+            "longitude": 101.02036701523002
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "THA",
+            "name": "Thailand"
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.12981899162255,
+            "longitude": 59.37405228739663
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "32",
+            "name": "Middle Asia"
+        },
+        "tdwg3": {
+            "code": "TKM",
+            "name": "Turkmenistan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 8.569342747428559,
+            "longitude": 0.9616584830173314
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "22",
+            "name": "West Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "TOG",
+            "name": "Togo"
+        }
+    },
+    {
+        "center": {
+            "latitude": -8.9683370479946,
+            "longitude": -157.97684634758448
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "TOK",
+            "name": "Tokelau-Manihiki"
+        }
+    },
+    {
+        "center": {
+            "latitude": -21.163183574333853,
+            "longitude": -175.20318166909783
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "TON",
+            "name": "Tonga"
+        }
+    },
+    {
+        "center": {
+            "latitude": 10.431693174267537,
+            "longitude": -61.29105418624949
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "TRT",
+            "name": "Trinidad-Tobago"
+        }
+    },
+    {
+        "center": {
+            "latitude": -14.666460895215007,
+            "longitude": -145.22929468019709
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "TUA",
+            "name": "Tuamotu"
+        }
+    },
+    {
+        "center": {
+            "latitude": -23.375304458876226,
+            "longitude": -149.48921746785626
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "61",
+            "name": "South-Central Pacific"
+        },
+        "tdwg3": {
+            "code": "TUB",
+            "name": "Tubuai Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.2676591859672,
+            "longitude": 27.318472689754955
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "TUE",
+            "name": "Turkey-in-Europe"
+        }
+    },
+    {
+        "center": {
+            "latitude": 34.10255437963693,
+            "longitude": 9.558487703403467
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "20",
+            "name": "Northern Africa"
+        },
+        "tdwg3": {
+            "code": "TUN",
+            "name": "Tunisia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.991901308626844,
+            "longitude": 35.445605059716556
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "34",
+            "name": "Western Asia"
+        },
+        "tdwg3": {
+            "code": "TUR",
+            "name": "Turkey"
+        }
+    },
+    {
+        "center": {
+            "latitude": -8.50707905766234,
+            "longitude": 179.2136767523146
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "TUV",
+            "name": "Tuvalu"
+        }
+    },
+    {
+        "center": {
+            "latitude": 51.57501589127495,
+            "longitude": 94.81193680049837
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "TVA",
+            "name": "Tuva"
+        }
+    },
+    {
+        "center": {
+            "latitude": -25.276421646645343,
+            "longitude": 28.07691309806526
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "27",
+            "name": "Southern Africa"
+        },
+        "tdwg3": {
+            "code": "TVL",
+            "name": "Northern Provinces"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.52523495161417,
+            "longitude": 71.04396929619055
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "32",
+            "name": "Middle Asia"
+        },
+        "tdwg3": {
+            "code": "TZK",
+            "name": "Tadzhikistan"
+        }
+    },
+    {
+        "center": {
+            "latitude": 1.2956260706470224,
+            "longitude": 32.386610160309466
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "25",
+            "name": "East Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "UGA",
+            "name": "Uganda"
+        }
+    },
+    {
+        "center": {
+            "latitude": 49.06928001848023,
+            "longitude": 31.133436603740158
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "14",
+            "name": "Eastern Europe"
+        },
+        "tdwg3": {
+            "code": "UKR",
+            "name": "Ukraine"
+        }
+    },
+    {
+        "center": {
+            "latitude": -32.79510780558261,
+            "longitude": -56.017972238290554
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "85",
+            "name": "Southern South America"
+        },
+        "tdwg3": {
+            "code": "URU",
+            "name": "Uruguay"
+        }
+    },
+    {
+        "center": {
+            "latitude": 39.32624628736444,
+            "longitude": -111.67395169056245
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "76",
+            "name": "Southwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "UTA",
+            "name": "Utah"
+        }
+    },
+    {
+        "center": {
+            "latitude": 41.74944870165174,
+            "longitude": 63.17703740182183
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "32",
+            "name": "Middle Asia"
+        },
+        "tdwg3": {
+            "code": "UZB",
+            "name": "Uzbekistan"
+        }
+    },
+    {
+        "center": {
+            "latitude": -15.291461289364744,
+            "longitude": 166.90758125785055
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "VAN",
+            "name": "Vanuatu"
+        }
+    },
+    {
+        "center": {
+            "latitude": 7.124177211825403,
+            "longitude": -66.18489210144678
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "82",
+            "name": "Northern South America"
+        },
+        "tdwg3": {
+            "code": "VEN",
+            "name": "Venezuela"
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.09015777622081,
+            "longitude": -72.68579412264963
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "VER",
+            "name": "Vermont"
+        }
+    },
+    {
+        "center": {
+            "latitude": -36.8704670249886,
+            "longitude": 144.31478779296603
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "VIC",
+            "name": "Victoria"
+        }
+    },
+    {
+        "center": {
+            "latitude": 16.676891863329065,
+            "longitude": 106.31457698610764
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "41",
+            "name": "Indo-China"
+        },
+        "tdwg3": {
+            "code": "VIE",
+            "name": "Vietnam"
+        }
+    },
+    {
+        "center": {
+            "latitude": 10.991814083050093,
+            "longitude": -64.0779859737024
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "VNA",
+            "name": "Venezuelan Antilles"
+        }
+    },
+    {
+        "center": {
+            "latitude": 37.529884557389664,
+            "longitude": -78.88196531252046
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "VRG",
+            "name": "Virginia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 19.304000886280726,
+            "longitude": 166.63975527796413
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "62",
+            "name": "Northwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "WAK",
+            "name": "Wake I."
+        }
+    },
+    {
+        "center": {
+            "latitude": -14.281912115937224,
+            "longitude": -178.13096349300844
+        },
+        "tdwg1": {
+            "code": "6",
+            "name": "Pacific"
+        },
+        "tdwg2": {
+            "code": "60",
+            "name": "Southwestern Pacific"
+        },
+        "tdwg3": {
+            "code": "WAL",
+            "name": "Wallis-Futuna Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 47.37715129146993,
+            "longitude": -120.41084213186558
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "73",
+            "name": "Northwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "WAS",
+            "name": "Washington"
+        }
+    },
+    {
+        "center": {
+            "latitude": -25.47650893194724,
+            "longitude": 122.17618746487202
+        },
+        "tdwg1": {
+            "code": "5",
+            "name": "Australasia"
+        },
+        "tdwg2": {
+            "code": "50",
+            "name": "Australia"
+        },
+        "tdwg3": {
+            "code": "WAU",
+            "name": "Western Australia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.90340557272316,
+            "longitude": -77.0166339339918
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "78",
+            "name": "Southeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "WDC",
+            "name": "District of Columbia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 33.31260897299883,
+            "longitude": 76.67089320411722
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "40",
+            "name": "Indian Subcontinent"
+        },
+        "tdwg3": {
+            "code": "WHM",
+            "name": "West Himalaya"
+        }
+    },
+    {
+        "center": {
+            "latitude": 14.64617632193236,
+            "longitude": -61.026012532895
+        },
+        "tdwg1": {
+            "code": "8",
+            "name": "Southern America"
+        },
+        "tdwg2": {
+            "code": "81",
+            "name": "Caribbean"
+        },
+        "tdwg3": {
+            "code": "WIN",
+            "name": "Windward Is."
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.64408664802893,
+            "longitude": -89.73943293744136
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "74",
+            "name": "North-Central U.S.A."
+        },
+        "tdwg3": {
+            "code": "WIS",
+            "name": "Wisconsin"
+        }
+    },
+    {
+        "center": {
+            "latitude": 24.66612958411183,
+            "longitude": -13.12460580769843
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "20",
+            "name": "Northern Africa"
+        },
+        "tdwg3": {
+            "code": "WSA",
+            "name": "Western Sahara"
+        }
+    },
+    {
+        "center": {
+            "latitude": 61.48055972763715,
+            "longitude": 73.2478324036113
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "WSB",
+            "name": "West Siberia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 38.64886028560433,
+            "longitude": -80.61685300959418
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "75",
+            "name": "Northeastern U.S.A."
+        },
+        "tdwg3": {
+            "code": "WVA",
+            "name": "West Virginia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 42.99923088352897,
+            "longitude": -107.53984414872158
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "73",
+            "name": "Northwestern U.S.A."
+        },
+        "tdwg3": {
+            "code": "WYO",
+            "name": "Wyoming"
+        }
+    },
+    {
+        "center": {
+            "latitude": -10.449016278278346,
+            "longitude": 105.7019580144782
+        },
+        "tdwg1": {
+            "code": "4",
+            "name": "Asia Tropical"
+        },
+        "tdwg2": {
+            "code": "42",
+            "name": "Malesia"
+        },
+        "tdwg3": {
+            "code": "XMS",
+            "name": "Christmas I."
+        }
+    },
+    {
+        "center": {
+            "latitude": 65.90860390839403,
+            "longitude": 129.9021582918349
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "30",
+            "name": "Siberia"
+        },
+        "tdwg3": {
+            "code": "YAK",
+            "name": "Yakutskiya"
+        }
+    },
+    {
+        "center": {
+            "latitude": 15.83627948006515,
+            "longitude": 47.58416820805043
+        },
+        "tdwg1": {
+            "code": "3",
+            "name": "Asia Temperate"
+        },
+        "tdwg2": {
+            "code": "35",
+            "name": "Arabian Peninsula"
+        },
+        "tdwg3": {
+            "code": "YEM",
+            "name": "Yemen"
+        }
+    },
+    {
+        "center": {
+            "latitude": 44.16616324790653,
+            "longitude": 18.766713357324218
+        },
+        "tdwg1": {
+            "code": "1",
+            "name": "Europe"
+        },
+        "tdwg2": {
+            "code": "13",
+            "name": "Southeastern Europe"
+        },
+        "tdwg3": {
+            "code": "YUG",
+            "name": "Yugoslavia"
+        }
+    },
+    {
+        "center": {
+            "latitude": 63.632271448264575,
+            "longitude": -135.4973097273929
+        },
+        "tdwg1": {
+            "code": "7",
+            "name": "Northern America"
+        },
+        "tdwg2": {
+            "code": "70",
+            "name": "Subarctic America"
+        },
+        "tdwg3": {
+            "code": "YUK",
+            "name": "Yukon"
+        }
+    },
+    {
+        "center": {
+            "latitude": -2.8783709003381994,
+            "longitude": 23.66055069925575
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "23",
+            "name": "West-Central Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "ZAI",
+            "name": "Za\u00efre"
+        }
+    },
+    {
+        "center": {
+            "latitude": -13.458894495555521,
+            "longitude": 27.7912528305821
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "26",
+            "name": "South Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "ZAM",
+            "name": "Zambia"
+        }
+    },
+    {
+        "center": {
+            "latitude": -19.021900700870603,
+            "longitude": 29.87609872367459
+        },
+        "tdwg1": {
+            "code": "2",
+            "name": "Africa"
+        },
+        "tdwg2": {
+            "code": "26",
+            "name": "South Tropical Africa"
+        },
+        "tdwg3": {
+            "code": "ZIM",
+            "name": "Zimbabwe"
+        }
+    }
+]
