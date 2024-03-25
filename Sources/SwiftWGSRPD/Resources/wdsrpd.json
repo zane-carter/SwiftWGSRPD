@@ -194,7 +194,7 @@
         },
         "tdwg3": {
             "code": "ALU",
-            "name": "Aleutian Is."
+            "name": "Aleutian Island"
         }
     },
     {
@@ -230,7 +230,7 @@
         },
         "tdwg3": {
             "code": "AND",
-            "name": "Andaman Is."
+            "name": "Andaman Island"
         }
     },
     {
@@ -374,7 +374,7 @@
         },
         "tdwg3": {
             "code": "ASP",
-            "name": "Amsterdam-St.Paul Is."
+            "name": "Amsterdam-St.Paul Island"
         }
     },
     {
@@ -410,7 +410,7 @@
         },
         "tdwg3": {
             "code": "ATP",
-            "name": "Antipodean Is."
+            "name": "Antipodean Island"
         }
     },
     {
@@ -950,7 +950,7 @@
         },
         "tdwg3": {
             "code": "CAY",
-            "name": "Cayman Is."
+            "name": "Cayman Island"
         }
     },
     {
@@ -1310,7 +1310,7 @@
         },
         "tdwg3": {
             "code": "CNY",
-            "name": "Canary Is."
+            "name": "Canary Island"
         }
     },
     {
@@ -1382,7 +1382,7 @@
         },
         "tdwg3": {
             "code": "COO",
-            "name": "Cook Is."
+            "name": "Cook Island"
         }
     },
     {
@@ -1436,7 +1436,7 @@
         },
         "tdwg3": {
             "code": "CPI",
-            "name": "C. American Pacific Is."
+            "name": "C. American Pacific Island"
         }
     },
     {
@@ -1490,7 +1490,7 @@
         },
         "tdwg3": {
             "code": "CRL",
-            "name": "Caroline Is."
+            "name": "Caroline Island"
         }
     },
     {
@@ -1508,7 +1508,7 @@
         },
         "tdwg3": {
             "code": "CRZ",
-            "name": "Crozet Is."
+            "name": "Crozet Island"
         }
     },
     {
@@ -1544,7 +1544,7 @@
         },
         "tdwg3": {
             "code": "CTM",
-            "name": "Chatham Is."
+            "name": "Chatham Island"
         }
     },
     {
@@ -1706,7 +1706,7 @@
         },
         "tdwg3": {
             "code": "DSV",
-            "name": "Desventurados Is."
+            "name": "Desventurados Island"
         }
     },
     {
@@ -1724,7 +1724,7 @@
         },
         "tdwg3": {
             "code": "EAI",
-            "name": "East Aegean Is."
+            "name": "East Aegean Island"
         }
     },
     {
@@ -1742,7 +1742,7 @@
         },
         "tdwg3": {
             "code": "EAS",
-            "name": "Easter Is."
+            "name": "Easter Island"
         }
     },
     {
@@ -1886,7 +1886,7 @@
         },
         "tdwg3": {
             "code": "FAL",
-            "name": "Falkland Is."
+            "name": "Falkland Island"
         }
     },
     {
@@ -2102,7 +2102,7 @@
         },
         "tdwg3": {
             "code": "GGI",
-            "name": "Gulf of Guinea Is."
+            "name": "Gulf of Guinea Island"
         }
     },
     {
@@ -2138,7 +2138,7 @@
         },
         "tdwg3": {
             "code": "GIL",
-            "name": "Gilbert Is."
+            "name": "Gilbert Island"
         }
     },
     {
@@ -2336,7 +2336,7 @@
         },
         "tdwg3": {
             "code": "HBI",
-            "name": "Howland-Baker Is."
+            "name": "Howland-Baker Island"
         }
     },
     {
@@ -2354,7 +2354,7 @@
         },
         "tdwg3": {
             "code": "HMD",
-            "name": "Heard-McDonald Is."
+            "name": "Heard-McDonald Island"
         }
     },
     {
@@ -2678,7 +2678,7 @@
         },
         "tdwg3": {
             "code": "JNF",
-            "name": "Juan Fern\u00e1ndez Is."
+            "name": "Juan Fern\u00e1ndez Island"
         }
     },
     {
@@ -2786,7 +2786,7 @@
         },
         "tdwg3": {
             "code": "KER",
-            "name": "Kermadec Is."
+            "name": "Kermadec Island"
         }
     },
     {
@@ -2930,7 +2930,7 @@
         },
         "tdwg3": {
             "code": "KUR",
-            "name": "Kuril Is."
+            "name": "Kuril Island"
         }
     },
     {
@@ -3074,7 +3074,7 @@
         },
         "tdwg3": {
             "code": "LDV",
-            "name": "Laccadive Is."
+            "name": "Laccadive Island"
         }
     },
     {
@@ -3092,7 +3092,7 @@
         },
         "tdwg3": {
             "code": "LEE",
-            "name": "Leeward Is. AB Ant"
+            "name": "Leeward Island AB Ant"
         }
     },
     {
@@ -3128,7 +3128,7 @@
         },
         "tdwg3": {
             "code": "LIN",
-            "name": "Line Is."
+            "name": "Line Island"
         }
     },
     {
@@ -3164,7 +3164,7 @@
         },
         "tdwg3": {
             "code": "LSI",
-            "name": "Lesser Sunda Is."
+            "name": "Lesser Sunda Island"
         }
     },
     {
@@ -3236,7 +3236,7 @@
         },
         "tdwg3": {
             "code": "MAQ",
-            "name": "Macquarie Is."
+            "name": "Macquarie Island"
         }
     },
     {
@@ -3290,7 +3290,7 @@
         },
         "tdwg3": {
             "code": "MCI",
-            "name": "Mozambique Channel Is."
+            "name": "Mozambique Channel Island"
         }
     },
     {
@@ -3560,7 +3560,7 @@
         },
         "tdwg3": {
             "code": "MPE",
-            "name": "Marion-Prince Edward Is."
+            "name": "Marion-Prince Edward Island"
         }
     },
     {
@@ -3614,7 +3614,7 @@
         },
         "tdwg3": {
             "code": "MRS",
-            "name": "Marshall Is."
+            "name": "Marshall Island"
         }
     },
     {
@@ -3758,7 +3758,7 @@
         },
         "tdwg3": {
             "code": "MXI",
-            "name": "Mexican Pacific Is."
+            "name": "Mexican Pacific Island"
         }
     },
     {
@@ -3920,7 +3920,7 @@
         },
         "tdwg3": {
             "code": "NCB",
-            "name": "Nicobar Is."
+            "name": "Nicobar Island"
         }
     },
     {
@@ -4046,7 +4046,7 @@
         },
         "tdwg3": {
             "code": "NFK",
-            "name": "Norfolk Is."
+            "name": "Norfolk Island"
         }
     },
     {
@@ -4730,7 +4730,7 @@
         },
         "tdwg3": {
             "code": "PHX",
-            "name": "Phoenix Is."
+            "name": "Phoenix Island"
         }
     },
     {
@@ -4748,7 +4748,7 @@
         },
         "tdwg3": {
             "code": "PIT",
-            "name": "Pitcairn Is."
+            "name": "Pitcairn Island"
         }
     },
     {
@@ -5162,7 +5162,7 @@
         },
         "tdwg3": {
             "code": "SCI",
-            "name": "Society Is."
+            "name": "Society Island"
         }
     },
     {
@@ -5198,7 +5198,7 @@
         },
         "tdwg3": {
             "code": "SCZ",
-            "name": "Santa Cruz Is."
+            "name": "Santa Cruz Island"
         }
     },
     {
@@ -5396,7 +5396,7 @@
         },
         "tdwg3": {
             "code": "SOL",
-            "name": "Solomon Is."
+            "name": "Solomon Island"
         }
     },
     {
@@ -5468,7 +5468,7 @@
         },
         "tdwg3": {
             "code": "SSA",
-            "name": "South Sandwich Is."
+            "name": "South Sandwich Island"
         }
     },
     {
@@ -5720,7 +5720,7 @@
         },
         "tdwg3": {
             "code": "TCI",
-            "name": "Turks-Caicos Is."
+            "name": "Turks-Caicos Island"
         }
     },
     {
@@ -5936,7 +5936,7 @@
         },
         "tdwg3": {
             "code": "TUB",
-            "name": "Tubuai Is."
+            "name": "Tubuai Island"
         }
     },
     {
@@ -6314,7 +6314,7 @@
         },
         "tdwg3": {
             "code": "WAL",
-            "name": "Wallis-Futuna Is."
+            "name": "Wallis-Futuna Island"
         }
     },
     {
@@ -6404,7 +6404,7 @@
         },
         "tdwg3": {
             "code": "WIN",
-            "name": "Windward Is."
+            "name": "Windward Island"
         }
     },
     {
